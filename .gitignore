@@ -1,0 +1,5 @@
+output_stream.png
+*.tmp
+__pycache__/
+*.pyc
+.env
